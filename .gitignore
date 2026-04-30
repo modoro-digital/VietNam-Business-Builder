@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Office binary files (chỉ dùng Markdown trong repo)
+*.docx
+*.xlsx
+*.pptx
+*.doc
+*.xls
+*.ppt
+
+# Editor temp
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude / build artifacts
+.claude-cache/
+*.plugin
+node_modules/
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log

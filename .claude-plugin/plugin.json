@@ -1,0 +1,10 @@
+{
+  "name": "business-builder",
+  "version": "0.3.0",
+  "description": "Đóng gói doanh nghiệp — AI tự động tạo 191 tài liệu vận hành cho doanh nghiệp theo kiến trúc 5 tầng, tuân thủ ISO 9001, EOS, E-Myth, McKinsey 7S, SYSTEMology, Franchise Ops + Luật DN 2020, BLLĐ 2019, Luật KT 2015",
+  "author": {
+    "name": "Quốc MODORO",
+    "url": "https://bio.ybai.me/777777"
+  },
+  "keywords": ["business", "operations", "vietnam", "sop", "documents", "iso9001", "eos", "compliance"]
+}
