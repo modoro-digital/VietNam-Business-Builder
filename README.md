@@ -32,7 +32,7 @@ cp -r VietNam-Business-Builder ~/.claude/plugins/business-builder
 /plugin install modoro-digital/VietNam-Business-Builder
 ```
 
-Sau khi cài, restart Claude Code và kiểm tra với `/plugin` — sẽ thấy 13 skills `bp-*` xuất hiện.
+Sau khi cài, restart Claude Code và kiểm tra với `/plugin` — sẽ thấy 13 skills `bb-*` xuất hiện.
 
 ---
 
@@ -40,19 +40,19 @@ Sau khi cài, restart Claude Code và kiểm tra với `/plugin` — sẽ thấy
 
 | # | Skill | Tầng | Files | Mô tả |
 |---|-------|------|-------|-------|
-| 0 | `bp-orchestrator` | Meta | 10 | Điều phối tổng thể, gọi tuần tự 12 skill con |
-| 1 | `bp-governance` | 1 | 20 | Quản trị công ty & Pháp lý |
-| 2 | `bp-strategy` | 1 | 19 | Chiến lược & Kế hoạch kinh doanh |
-| 3 | `bp-finance` | 2 | 21 | Tài chính & Kế toán |
-| 4 | `bp-people` | 2 | 23 | Nhân sự & Con người |
-| 5 | `bp-operations` | 2 | 21 | Hành chính & Vận hành |
-| 6 | `bp-sales` | 3 | 18 | Kinh doanh & Bán hàng |
-| 7 | `bp-marketing` | 3 | 11 | Marketing & Thương hiệu |
-| 8 | `bp-customer` | 3 | 13 | Khách hàng & Dịch vụ |
-| 9 | `bp-product-tech` | 4 | 14 | Sản phẩm & Công nghệ |
-| 10 | `bp-training` | 4 | 11 | Đào tạo & Phát triển |
-| 11 | `bp-reporting` | 4 | 11 | Báo cáo & Đo lường |
-| 12 | `bp-growth` | 5 | 13 | Tăng trưởng & Đầu tư |
+| 0 | `bb-orchestrator` | Meta | 10 | Điều phối tổng thể, gọi tuần tự 12 skill con |
+| 1 | `bb-governance` | 1 | 20 | Quản trị công ty & Pháp lý |
+| 2 | `bb-strategy` | 1 | 19 | Chiến lược & Kế hoạch kinh doanh |
+| 3 | `bb-finance` | 2 | 21 | Tài chính & Kế toán |
+| 4 | `bb-people` | 2 | 23 | Nhân sự & Con người |
+| 5 | `bb-operations` | 2 | 21 | Hành chính & Vận hành |
+| 6 | `bb-sales` | 3 | 18 | Kinh doanh & Bán hàng |
+| 7 | `bb-marketing` | 3 | 11 | Marketing & Thương hiệu |
+| 8 | `bb-customer` | 3 | 13 | Khách hàng & Dịch vụ |
+| 9 | `bb-product-tech` | 4 | 14 | Sản phẩm & Công nghệ |
+| 10 | `bb-training` | 4 | 11 | Đào tạo & Phát triển |
+| 11 | `bb-reporting` | 4 | 11 | Báo cáo & Đo lường |
+| 12 | `bb-growth` | 5 | 13 | Tăng trưởng & Đầu tư |
 
 **Tổng: 205 file Markdown · 191 prompt files · 13 skills · 5 tầng kiến trúc**
 

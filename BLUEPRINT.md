@@ -15,15 +15,15 @@
 - [VI. Flow Vận Hành](#vi-flow-vận-hành)
 - [VII. Thứ Tự Build](#vii-thứ-tự-build)
 - [VIII. Prompts Chi Tiết](#viii-prompts-chi-tiết)
-  - [VIII.1 — bp-orchestrator](#viii1--bp-orchestrator-điều-phối-tổng-thể)
-  - [VIII.2 — bp-governance](#viii2--bp-governance-quản-trị--pháp-lý)
-  - [VIII.3 — bp-strategy](#viii3--bp-strategy-chiến-lược--kế-hoạch)
-  - [VIII.4 — bp-finance](#viii4--bp-finance-tài-chính--kế-toán)
-  - [VIII.5 — bp-people](#viii5--bp-people-nhân-sự--con-người)
-  - [VIII.6 — bp-operations](#viii6--bp-operations-hành-chính--vận-hành)
-  - [VIII.7 — bp-sales](#viii7--bp-sales-kinh-doanh--bán-hàng)
-  - [VIII.8 — bp-marketing](#viii8--bp-marketing-marketing--thương-hiệu)
-  - [VIII.9 — bp-customer](#viii9--bp-customer-khách-hàng--dịch-vụ)
+  - [VIII.1 — bb-orchestrator](#viii1--bb-orchestrator-điều-phối-tổng-thể)
+  - [VIII.2 — bb-governance](#viii2--bb-governance-quản-trị--pháp-lý)
+  - [VIII.3 — bb-strategy](#viii3--bb-strategy-chiến-lược--kế-hoạch)
+  - [VIII.4 — bb-finance](#viii4--bb-finance-tài-chính--kế-toán)
+  - [VIII.5 — bb-people](#viii5--bb-people-nhân-sự--con-người)
+  - [VIII.6 — bb-operations](#viii6--bb-operations-hành-chính--vận-hành)
+  - [VIII.7 — bb-sales](#viii7--bb-sales-kinh-doanh--bán-hàng)
+  - [VIII.8 — bb-marketing](#viii8--bb-marketing-marketing--thương-hiệu)
+  - [VIII.9 — bb-customer](#viii9--bb-customer-khách-hàng--dịch-vụ)
   - [VIII.10–VIII.13 — Placeholder](#viii10viii13--placeholder-cho-các-phase-sau)
 - [IX. Nguồn Tham Khảo](#ix-nguồn-tham-khảo)
 
@@ -80,7 +80,7 @@ Xây dựng bộ skill AI tự động hóa việc "đóng gói doanh nghiệp" 
   ┌─────────────────────────────────────────────┐
   │  Tầng 5: TĂNG TRƯỞNG (Growth)              │
   │  Investor-ready, M&A, nhượng quyền          │
-  │  [12-bp-growth]                              │
+  │  [12-bb-growth]                              │
   ├─────────────────────────────────────────────┤
   │  Tầng 4: HỆ THỐNG (Systems)                │
   │  Quy trình, công nghệ, cải tiến             │
@@ -112,7 +112,7 @@ dong-goi-doanh-nghiep/
 ├── README.md                          # Tổng quan skill set
 ├── BLUEPRINT.md                       # ← BẠN ĐANG ĐỌC FILE NÀY
 │
-├── 00-bp-orchestrator/                # Meta — Điều phối tổng thể
+├── 00-bb-orchestrator/                # Meta — Điều phối tổng thể
 │   ├── README.md                      # Giải thích + Prompts
 │   ├── intake-questionnaire.md        # FRM — Bộ câu hỏi thu thập info DN
 │   ├── scope-assessment.md            # SOP — Đánh giá scope & ưu tiên
@@ -123,7 +123,7 @@ dong-goi-doanh-nghiep/
 │   ├── maturity-scoring.md            # FRM — Bảng chấm điểm maturity
 │   └── master-glossary.md             # MAN — Bảng thuật ngữ chuẩn hóa
 │
-├── 01-bp-governance/                  # Tầng 1 — Quản Trị & Pháp Lý
+├── 01-bb-governance/                  # Tầng 1 — Quản Trị & Pháp Lý
 │   ├── README.md
 │   ├── 00.1-legal/                    # Hồ sơ pháp lý (6 files)
 │   │   ├── dieu-le-cong-ty.md         # POL
@@ -149,7 +149,7 @@ dong-goi-doanh-nghiep/
 │       ├── chinh-sach-bao-ve-du-lieu.md # POL
 │       └── lich-gia-han-giay-phep.md  # FRM
 │
-├── 02-bp-strategy/                    # Tầng 1 — Chiến Lược & Kế Hoạch
+├── 02-bb-strategy/                    # Tầng 1 — Chiến Lược & Kế Hoạch
 │   ├── README.md
 │   ├── 01.1-identity/                 # Bản sắc DN (4 files)
 │   │   ├── company-profile.md         # MAN
@@ -174,7 +174,7 @@ dong-goi-doanh-nghiep/
 │       ├── business-continuity-plan.md # SOP
 │       └── scenario-planning.md       # RPT
 │
-├── 03-bp-finance/                     # Tầng 2 — Tài Chính & Kế Toán (20 files)
+├── 03-bb-finance/                     # Tầng 2 — Tài Chính & Kế Toán (20 files)
 │   ├── README.md
 │   ├── chinh-sach-tai-chinh.md        # POL — Chính sách tài chính tổng quát
 │   ├── quy-che-chi-tieu-noi-bo.md     # POL — Quy chế chi tiêu nội bộ
@@ -197,7 +197,7 @@ dong-goi-doanh-nghiep/
 │   ├── dashboard-tai-chinh-thang.md   # RPT — Dashboard tài chính tháng
 │   └── thuyet-minh-bctc.md            # RPT — Thuyết minh BCTC
 │
-├── 04-bp-people/                      # Tầng 2 — Nhân Sự & Con Người (22 files)
+├── 04-bb-people/                      # Tầng 2 — Nhân Sự & Con Người (22 files)
 │   ├── README.md
 │   ├── so-do-to-chuc.md               # MAN — Sơ đồ tổ chức (Org Chart)
 │   ├── jd-template-chung.md           # FRM — JD Template chung
@@ -222,7 +222,7 @@ dong-goi-doanh-nghiep/
 │   ├── kpi-ca-nhan-template.md        # FRM — KPI cá nhân template
 │   └── form-danh-gia-360.md           # FRM — Form đánh giá 360 độ
 │
-├── 05-bp-operations/                  # Tầng 2 — Hành Chính & Vận Hành (20 files)
+├── 05-bb-operations/                  # Tầng 2 — Hành Chính & Vận Hành (20 files)
 │   ├── README.md
 │   ├── sop-quan-ly-van-phong.md       # SOP — Quản lý văn phòng
 │   ├── sop-mua-sam-tai-san.md         # SOP — Mua sắm tài sản
@@ -245,7 +245,7 @@ dong-goi-doanh-nghiep/
 │   ├── template-bao-cao-tuan.md       # FRM — Template báo cáo tuần
 │   └── sop-truyen-thong-noi-bo.md     # SOP — Truyền thông nội bộ
 │
-├── 06-bp-sales/                       # Tầng 3 — Kinh Doanh & Bán Hàng (17 files)
+├── 06-bb-sales/                       # Tầng 3 — Kinh Doanh & Bán Hàng (17 files)
 │   ├── README.md
 │   ├── chien-luoc-kinh-doanh.md       # MAN — Chiến lược kinh doanh & Target
 │   ├── chien-luoc-gia.md              # MAN — Chiến lược giá (Pricing Strategy)
@@ -265,7 +265,7 @@ dong-goi-doanh-nghiep/
 │   ├── hop-dong-dai-ly.md             # FRM — Hợp đồng đại lý
 │   └── onboard-doi-tac.md             # SOP — Onboard đối tác
 │
-├── 07-bp-marketing/                   # Tầng 3 — Marketing & Thương Hiệu (10 files)
+├── 07-bb-marketing/                   # Tầng 3 — Marketing & Thương Hiệu (10 files)
 │   ├── README.md
 │   ├── ke-hoach-marketing-nam.md      # MAN — Kế hoạch Marketing năm
 │   ├── chien-luoc-noi-dung.md         # MAN — Chiến lược nội dung (Content Strategy)
@@ -278,7 +278,7 @@ dong-goi-doanh-nghiep/
 │   ├── so-tay-mang-xa-hoi.md          # MAN — Sổ tay mạng xã hội (Social Playbook)
 │   └── lich-noi-dung.md               # FRM — Lịch nội dung (Content Calendar)
 │
-├── 08-bp-customer/                    # Tầng 3 — Khách Hàng & Dịch Vụ (12 files)
+├── 08-bb-customer/                    # Tầng 3 — Khách Hàng & Dịch Vụ (12 files)
 │   ├── README.md
 │   ├── man-customer-experience-standards.md # MAN — Tiêu chuẩn trải nghiệm KH
 │   ├── sop-onboard-khach-hang.md      # SOP — Onboard khách hàng
@@ -293,7 +293,7 @@ dong-goi-doanh-nghiep/
 │   ├── man-referral-program.md        # MAN — Referral Program
 │   └── sop-thu-thap-review.md         # SOP — Thu thập review & testimonial
 │
-├── 09-bp-product-tech/                # Tầng 4 — Sản Phẩm & Công Nghệ (13 files)
+├── 09-bb-product-tech/                # Tầng 4 — Sản Phẩm & Công Nghệ (13 files)
 │   ├── README.md
 │   ├── danh-muc-san-pham-dich-vu.md   # MAN — Danh mục sản phẩm/dịch vụ
 │   ├── lo-trinh-phat-trien-san-pham.md # MAN — Lộ trình phát triển sản phẩm
@@ -309,7 +309,7 @@ dong-goi-doanh-nghiep/
 │   ├── mau-de-xuat-cai-tien.md        # FRM — Mẫu đề xuất cải tiến
 │   └── sop-review-cap-nhat-sop.md     # SOP — Review & cập nhật SOP
 │
-├── 10-bp-training/                    # Tầng 4 — Đào Tạo & Phát Triển (10 files)
+├── 10-bb-training/                    # Tầng 4 — Đào Tạo & Phát Triển (10 files)
 │   ├── README.md
 │   ├── chinh-sach-dao-tao.md          # POL — Chính sách đào tạo
 │   ├── khao-sat-nhu-cau-dao-tao.md    # FRM — Khảo sát nhu cầu đào tạo
@@ -322,7 +322,7 @@ dong-goi-doanh-nghiep/
 │   ├── huong-dan-he-thong-quan-ly-tri-thuc.md # MAN — Hệ thống quản lý tri thức
 │   └── bao-cao-roi-dao-tao.md         # RPT — Báo cáo ROI đào tạo
 │
-├── 11-bp-reporting/                   # Tầng 4 — Báo Cáo & Đo Lường (10 files)
+├── 11-bb-reporting/                   # Tầng 4 — Báo Cáo & Đo Lường (10 files)
 │   ├── README.md
 │   ├── pol-chinh-sach-bao-cao.md      # POL — Chính sách báo cáo
 │   ├── man-tu-dien-kpi.md             # MAN — Từ điển KPI
@@ -335,7 +335,7 @@ dong-goi-doanh-nghiep/
 │   ├── rpt-benchmarking.md            # RPT — Benchmarking Report
 │   └── frm-bao-cao-thuong-nien.md     # FRM — Báo cáo thường niên
 │
-└── 12-bp-growth/                      # Tầng 5 — Tăng Trưởng & Đầu Tư (12 files)
+└── 12-bb-growth/                      # Tầng 5 — Tăng Trưởng & Đầu Tư (12 files)
     ├── README.md
     ├── pitch-deck.md                  # MAN — Pitch Deck
     ├── mo-hinh-tai-chinh-dinh-gia.md  # RPT — Mô hình tài chính & định giá
@@ -382,7 +382,7 @@ dong-goi-doanh-nghiep/
 | 12-growth | 5 | 12 | — | 6 | — | 2 | 4 | ✅ Done |
 | **TỔNG** | | **191** | **28** | **38** | **38** | **59** | **23** | **11/13 done** |
 
-> **Lưu ý:** 04-bp-people thiếu 5 files (career-path, training-plan-nam, culture-code, chuong-trinh-gan-ket-nv, khao-sat-hai-long-nv). 07-bp-marketing thiếu 8 files (06.3 Tài liệu bán hàng + 06.4 Đo lường). Tổng khi hoàn thành đầy đủ: **204 files**.
+> **Lưu ý:** 04-bb-people thiếu 5 files (career-path, training-plan-nam, culture-code, chuong-trinh-gan-ket-nv, khao-sat-hai-long-nv). 07-bb-marketing thiếu 8 files (06.3 Tài liệu bán hàng + 06.4 Đo lường). Tổng khi hoàn thành đầy đủ: **204 files**.
 
 ---
 
@@ -1767,7 +1767,7 @@ FORMAT:
 - Color coding: 🟢 OK (>90 ngày) | 🟡 Attention (30-90 ngày) | 🟠 Urgent (15-30 ngày) | 🔴 Critical (<15 ngày) | ⚫ Expired
 - Alert workflow: Flowchart 4 mốc (90-60-30-15)
 - Dashboard summary: KPI cards
-- Auto-fill: Từ data các file liên quan trong 01-bp-governance
+- Auto-fill: Từ data các file liên quan trong 01-bb-governance
 
 TONE: Operational, action-oriented.
 LENGTH: 3-5 trang A4.
@@ -2293,7 +2293,7 @@ CONTEXT:
 - Time horizon: [1/3/5 năm]
 - Market: TAM [số] | SAM [số] | SOM [số]
 - Financial data: [có sẵn / cần tạo projection]
-- Data từ files trước: [liệt kê files đã tạo trong 02-bp-strategy]
+- Data từ files trước: [liệt kê files đã tạo trong 02-bb-strategy]
 
 FORMAT:
 - Executive Summary: 2 trang, standalone, highlight key numbers

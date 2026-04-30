@@ -19,36 +19,36 @@ Hệ thống bao gồm **13 skill** được tổ chức theo **kiến trúc 5 t
 ```
 ┌─────────────────────────────────────────┐
 │  TẦNG 0: ORCHESTRATOR (Bộ não)          │
-│  bp-orchestrator — Điều phối tổng thể   │
+│  bb-orchestrator — Điều phối tổng thể   │
 └──────────────────┬──────────────────────┘
                    │
 ┌──────────────────┴──────────────────────┐
 │  TẦNG 1: NỀN MÓNG                       │
-│  bp-governance (19 tài liệu)            │
-│  bp-strategy (18 tài liệu)              │
+│  bb-governance (19 tài liệu)            │
+│  bb-strategy (18 tài liệu)              │
 └──────────────────┬──────────────────────┘
                    │
 ┌──────────────────┴──────────────────────┐
 │  TẦNG 2: BỘ MÁY                         │
-│  bp-finance (20) · bp-people (22)        │
-│  bp-operations (20)                      │
+│  bb-finance (20) · bb-people (22)        │
+│  bb-operations (20)                      │
 └──────────────────┬──────────────────────┘
                    │
 ┌──────────────────┴──────────────────────┐
 │  TẦNG 3: ĐỘNG CƠ                        │
-│  bp-sales (17) · bp-marketing (10)       │
-│  bp-customer (12)                        │
+│  bb-sales (17) · bb-marketing (10)       │
+│  bb-customer (12)                        │
 └──────────────────┬──────────────────────┘
                    │
 ┌──────────────────┴──────────────────────┐
 │  TẦNG 4: TỐI ƯU                         │
-│  bp-product-tech (13) · bp-training (10) │
-│  bp-reporting (10)                       │
+│  bb-product-tech (13) · bb-training (10) │
+│  bb-reporting (10)                       │
 └──────────────────┬──────────────────────┘
                    │
 ┌──────────────────┴──────────────────────┐
 │  TẦNG 5: NHÂN RỘNG                      │
-│  bp-growth (12)                          │
+│  bb-growth (12)                          │
 └─────────────────────────────────────────┘
 ```
 
@@ -56,25 +56,25 @@ Hệ thống bao gồm **13 skill** được tổ chức theo **kiến trúc 5 t
 
 | # | Skill | Mô tả | Trigger phrases |
 |---|-------|-------|-----------------|
-| 0 | `bp-orchestrator` | Bộ điều phối tổng thể — thu thập thông tin, đánh giá scope, gọi 12 skill con | "đóng gói doanh nghiệp", "hệ thống hóa DN" |
-| 1 | `bp-governance` | Quản trị & Pháp lý — điều lệ, quy chế, hợp đồng mẫu, tuân thủ | "tạo điều lệ", "đóng gói pháp lý" |
-| 2 | `bp-strategy` | Chiến lược & Kế hoạch — SWOT, BMC, OKR, business plan, risk | "kế hoạch kinh doanh", "phân tích SWOT" |
-| 3 | `bp-finance` | Tài chính & Kế toán — ngân sách, cashflow, SOP kế toán, BCTC | "ngân sách", "cashflow", "SOP kế toán" |
-| 4 | `bp-people` | Nhân sự & Con người — org chart, JD, tuyển dụng, onboarding, KPI | "sơ đồ tổ chức", "sổ tay nhân viên" |
-| 5 | `bp-operations` | Hành chính & Vận hành — SOP cốt lõi, NCC, kho, văn phòng | "tạo SOP", "sổ tay vận hành" |
-| 6 | `bp-sales` | Kinh doanh & Bán hàng — quy trình bán hàng, pipeline, CRM, đại lý | "quy trình bán hàng", "kịch bản sales" |
-| 7 | `bp-marketing` | Marketing & Thương hiệu — kế hoạch marketing, content, ads, SEO | "kế hoạch marketing", "content calendar" |
-| 8 | `bp-customer` | Khách hàng & Dịch vụ — CX, xử lý khiếu nại, loyalty, referral | "chăm sóc khách hàng", "NPS survey" |
-| 9 | `bp-product-tech` | Sản phẩm & Công nghệ — catalog, roadmap, tech stack, an ninh mạng | "roadmap sản phẩm", "chính sách IT" |
-| 10 | `bp-training` | Đào tạo & Phát triển — training plan, mentoring, knowledge management | "kế hoạch đào tạo", "mentoring program" |
-| 11 | `bp-reporting` | Báo cáo & Đo lường — KPI dictionary, dashboard, QBR, annual report | "từ điển KPI", "báo cáo quản trị" |
-| 12 | `bp-growth` | Tăng trưởng & Đầu tư — pitch deck, franchise, exit strategy | "gọi vốn", "nhượng quyền", "pitch deck" |
+| 0 | `bb-orchestrator` | Bộ điều phối tổng thể — thu thập thông tin, đánh giá scope, gọi 12 skill con | "đóng gói doanh nghiệp", "hệ thống hóa DN" |
+| 1 | `bb-governance` | Quản trị & Pháp lý — điều lệ, quy chế, hợp đồng mẫu, tuân thủ | "tạo điều lệ", "đóng gói pháp lý" |
+| 2 | `bb-strategy` | Chiến lược & Kế hoạch — SWOT, BMC, OKR, business plan, risk | "kế hoạch kinh doanh", "phân tích SWOT" |
+| 3 | `bb-finance` | Tài chính & Kế toán — ngân sách, cashflow, SOP kế toán, BCTC | "ngân sách", "cashflow", "SOP kế toán" |
+| 4 | `bb-people` | Nhân sự & Con người — org chart, JD, tuyển dụng, onboarding, KPI | "sơ đồ tổ chức", "sổ tay nhân viên" |
+| 5 | `bb-operations` | Hành chính & Vận hành — SOP cốt lõi, NCC, kho, văn phòng | "tạo SOP", "sổ tay vận hành" |
+| 6 | `bb-sales` | Kinh doanh & Bán hàng — quy trình bán hàng, pipeline, CRM, đại lý | "quy trình bán hàng", "kịch bản sales" |
+| 7 | `bb-marketing` | Marketing & Thương hiệu — kế hoạch marketing, content, ads, SEO | "kế hoạch marketing", "content calendar" |
+| 8 | `bb-customer` | Khách hàng & Dịch vụ — CX, xử lý khiếu nại, loyalty, referral | "chăm sóc khách hàng", "NPS survey" |
+| 9 | `bb-product-tech` | Sản phẩm & Công nghệ — catalog, roadmap, tech stack, an ninh mạng | "roadmap sản phẩm", "chính sách IT" |
+| 10 | `bb-training` | Đào tạo & Phát triển — training plan, mentoring, knowledge management | "kế hoạch đào tạo", "mentoring program" |
+| 11 | `bb-reporting` | Báo cáo & Đo lường — KPI dictionary, dashboard, QBR, annual report | "từ điển KPI", "báo cáo quản trị" |
+| 12 | `bb-growth` | Tăng trưởng & Đầu tư — pitch deck, franchise, exit strategy | "gọi vốn", "nhượng quyền", "pitch deck" |
 
 ## Cách sử dụng
 
 ### Đóng gói toàn bộ DN
 Nói: **"Đóng gói doanh nghiệp"** hoặc **"Hệ thống hóa toàn bộ tài liệu DN"**  
-→ `bp-orchestrator` sẽ thu thập thông tin và gọi tuần tự 12 skill con.
+→ `bb-orchestrator` sẽ thu thập thông tin và gọi tuần tự 12 skill con.
 
 ### Tạo tài liệu cụ thể
 Nói: **"Tạo điều lệ công ty"**, **"Viết kế hoạch kinh doanh"**, **"Thiết kế dashboard KPI"**  
@@ -98,7 +98,7 @@ Mỗi tài liệu được tạo bởi plugin đều tuân thủ quy tắc đặ
 
 **Mã loại:** SOP (quy trình) · QC (quy chế) · KH (kế hoạch) · BC (báo cáo) · JD (mô tả CV) · HĐ (hợp đồng) · BB (biên bản) · TL (tài liệu)
 
-Mỗi skill có bảng mapping cụ thể: tài liệu → thư mục Drive (00-09) → subfolder → tên file chuẩn. Chi tiết đầy đủ trong `skills/bp-orchestrator/references/quy-tac-luu-tru-drive.md`.
+Mỗi skill có bảng mapping cụ thể: tài liệu → thư mục Drive (00-09) → subfolder → tên file chuẩn. Chi tiết đầy đủ trong `skills/bb-orchestrator/references/quy-tac-luu-tru-drive.md`.
 
 ## Nền tảng lý thuyết
 
