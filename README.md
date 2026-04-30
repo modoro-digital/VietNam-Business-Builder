@@ -152,6 +152,16 @@ Chuyên gia **3A Marketing** (Affiliate · AI · Automation) với hơn 10 năm 
 
 ---
 
+## 💬 Cộng đồng 3A SYSTEM — HỆ THỐNG KINH DOANH 1 NGƯỜI
+
+Tham gia nhóm Zalo để học hỏi, chia sẻ và nhận hỗ trợ từ cộng đồng doanh nhân ứng dụng AI vào vận hành doanh nghiệp.
+
+<p align="center">
+  <a href="https://zalo.me/g/fbhqms222"><strong>👥 Tham gia nhóm Zalo ngay</strong></a>
+</p>
+
+---
+
 ## 🎁 QUÀ TẶNG ĐẶC BIỆT
 
 <p align="center">
