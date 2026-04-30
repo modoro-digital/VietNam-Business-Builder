@@ -152,6 +152,34 @@ Chuyên gia **3A Marketing** (Affiliate · AI · Automation) với hơn 10 năm 
 
 ---
 
+## 🎁 QUÀ TẶNG ĐẶC BIỆT
+
+<p align="center">
+  <a href="https://ybai.co/s13f1d7482">
+    <img src="https://w.ladicdn.com/s700x700/613b06ad7d0d9c0012053ddf/modoro-tl-ai-20260407073950-txhp4.png" alt="Workshop Làm chủ trợ lý AI OpenClaw" width="600">
+  </a>
+</p>
+
+Bạn vẫn đang tự xử lý mọi việc mỗi ngày… trong khi người khác đã có AI làm thay phần lớn?
+
+Còn bạn thì sao? Inbox vẫn đầy, công việc vẫn phải tự theo dõi, deadline vẫn tự nhớ… ngày nào cũng quá tải.
+
+Mình từng như vậy: có dùng AI, nhưng không biết cài OpenClaw, không hiểu cách vận hành, càng làm càng rối.
+
+Cho đến khi nhận ra: **Vấn đề không phải thiếu công cụ, mà là chưa có hệ thống để AI làm việc cho mình.**
+
+Workshop **"Làm chủ trợ lý AI OpenClaw"** cho mình cách đi từ cài đặt, kết nối, tự động hoá công việc thực tế.
+
+Từ email, giao việc, nhắc lịch đến workflow… mọi thứ gọn và nhanh hơn hẳn.
+
+Nếu bạn vẫn đang làm thủ công hoặc dùng AI rời rạc, thì có thể bạn đang chậm hơn người khác rất nhiều rồi.
+
+<p align="center">
+  <a href="https://ybai.co/s13f1d7482"><strong>👉 Đăng ký tại đây</strong></a>
+</p>
+
+---
+
 ## License
 
 [MIT License](LICENSE) © 2026 MODORO Technology Corporation — Quốc MODORO.
