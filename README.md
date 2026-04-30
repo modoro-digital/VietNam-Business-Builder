@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://modoro.com.vn">
+    <img src="https://modoro.com.vn/wp-content/uploads/2023/02/logo-modoro-corp-300x56.png" alt="MODORO Technology Corporation" width="240">
+  </a>
+</p>
+
 # Business Builder — Plugin Đóng Gói Doanh Nghiệp
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
