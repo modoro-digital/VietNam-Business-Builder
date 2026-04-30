@@ -32,6 +32,13 @@ cp -r VietNam-Business-Builder ~/.claude/plugins/business-builder
 /plugin install modoro-digital/VietNam-Business-Builder
 ```
 
+### Cách 3 — Kéo thả file `.plugin`
+
+1. [Tải file `business-builder.plugin`](https://github.com/modoro-digital/VietNam-Business-Builder/raw/main/business-builder.plugin) về máy.
+2. Mở **Claude Cowork** hoặc **Claude Code**.
+3. Kéo thả file `business-builder.plugin` vào cửa sổ Claude.
+4. Xác nhận cài đặt khi được hỏi.
+
 Sau khi cài, restart Claude Code và kiểm tra với `/plugin` — sẽ thấy 13 skills `bb-*` xuất hiện.
 
 ---

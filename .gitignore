@@ -21,7 +21,6 @@
 
 # Claude / build artifacts
 .claude-cache/
-*.plugin
 node_modules/
 
 # OS
