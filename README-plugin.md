@@ -1,6 +1,6 @@
 # Business Builder Plugin
 
-> **Đóng gói doanh nghiệp — AI tự động tạo 191 tài liệu vận hành cho doanh nghiệp từ bộ câu hỏi đầu vào**
+> **Đóng gói doanh nghiệp — AI tự động tạo 204 tài liệu vận hành cho doanh nghiệp từ bộ câu hỏi đầu vào**
 
 **Tác giả:** Quốc MODORO  
 **Phiên bản:** 0.3.0  
@@ -12,7 +12,7 @@
 
 Business Builder là plugin dành cho Claude, giúp doanh nghiệp Việt Nam **hệ thống hóa toàn bộ tài liệu vận hành** — từ pháp lý, chiến lược, tài chính, nhân sự, vận hành, kinh doanh, marketing, chăm sóc khách hàng, sản phẩm, đào tạo, báo cáo, đến tăng trưởng & đầu tư.
 
-Hệ thống bao gồm **13 skill** được tổ chức theo **kiến trúc 5 tầng**, tạo ra **191 tài liệu chuẩn hóa** bao phủ mọi khía cạnh vận hành doanh nghiệp. Mọi tài liệu đều tuân thủ **quy tắc đặt tên và lưu trữ chuẩn hóa**.
+Hệ thống bao gồm **13 skill** được tổ chức theo **kiến trúc 5 tầng**, tạo ra **204 tài liệu chuẩn hóa** bao phủ mọi khía cạnh vận hành doanh nghiệp. Mọi tài liệu đều tuân thủ **quy tắc đặt tên và lưu trữ chuẩn hóa**.
 
 ## Kiến trúc 5 tầng
 

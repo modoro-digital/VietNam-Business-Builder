@@ -14,12 +14,14 @@ metadata:
 
 ## Phạm vi
 
-**Tầng 3: Động Cơ** — Thu hút & nuôi dưỡng khách hàng. Tạo 10 tài liệu:
+**Tầng 3: Động Cơ** — Thu hút & nuôi dưỡng khách hàng. Tạo 18 tài liệu:
 
 | Nhóm | Tên | Mô tả |
 |------|-----|-------|
-| 06.1 | Chiến lược marketing | Kế hoạch năm, Content Strategy, Customer Journey, Phân tích đối thủ, Ngân sách |
-| 06.2 | Digital Marketing | Ads, SEO, Email Marketing, Social Media, Content Calendar |
+| 06.1 | Chiến lược marketing | Kế hoạch năm, Content Strategy, Customer Journey, Phân tích đối thủ, Ngân sách, Digital Strategy |
+| 06.2 | Digital Marketing | Ads, SEO, Email Marketing, Social Media, Content Calendar, Marketing Automation |
+| 06.3 | Brand & PR | Brand Guidelines, Brand Book, PR & Communications, Influencer, Event Marketing |
+| 06.4 | Đo lường | Báo cáo hiệu quả Marketing |
 
 ## Prompt files trong references/
 
@@ -35,6 +37,14 @@ metadata:
 | `quy-trinh-email-marketing.md` | SOP | Quy trình Email Marketing |
 | `so-tay-mang-xa-hoi.md` | MAN | Sổ tay mạng xã hội |
 | `lich-noi-dung.md` | FRM | Lịch nội dung (Content Calendar) |
+| `brand-guidelines.md` | MAN | Hướng dẫn thương hiệu (Logo, màu, typography) |
+| `chien-luoc-digital-marketing.md` | MAN | Chiến lược Digital Marketing tổng thể |
+| `quy-trinh-influencer-marketing.md` | SOP | Quy trình Influencer Marketing |
+| `ke-hoach-pr-truyen-thong.md` | MAN | Kế hoạch PR & Truyền thông |
+| `quy-trinh-event-marketing.md` | SOP | Quy trình Event Marketing |
+| `marketing-automation.md` | MAN | Marketing Automation Playbook |
+| `bao-cao-hieu-qua-marketing.md` | FRM | Báo cáo hiệu quả Marketing |
+| `so-tay-thuong-hieu.md` | MAN | Sổ tay thương hiệu (Brand Book) |
 
 ## Quy trình sử dụng
 

@@ -380,7 +380,7 @@ dong-goi-doanh-nghiep/
 | 10-training | 4 | 10 | 1 | 3 | 2 | 3 | 1 | ✅ Done |
 | 11-reporting | 4 | 10 | 1 | 2 | 1 | 5 | 1 | ✅ Done |
 | 12-growth | 5 | 12 | — | 6 | — | 2 | 4 | ✅ Done |
-| **TỔNG** | | **191** | **28** | **38** | **38** | **59** | **23** | **11/13 done** |
+| **TỔNG** | | **204** | **28** | **38** | **38** | **59** | **23** | **13/13 done** |
 
 > **Lưu ý:** 04-bb-people thiếu 5 files (career-path, training-plan-nam, culture-code, chuong-trinh-gan-ket-nv, khao-sat-hai-long-nv). 07-bb-marketing thiếu 8 files (06.3 Tài liệu bán hàng + 06.4 Đo lường). Tổng khi hoàn thành đầy đủ: **204 files**.
 
@@ -509,7 +509,7 @@ END
 | Phase 2 | 3 | 67 | 62 | ✅ Hoàn thành (thiếu 5 files 04-people) |
 | Phase 3 | 3 | 47 | 39 | ✅ Hoàn thành (thiếu 8 files 07-marketing) |
 | Phase 4 | 4 | ~50-60 | 45 | ✅ Hoàn thành |
-| **Tổng** | **13** | **~209** | **191** | **Thiếu 13 files** |
+| **Tổng** | **13** | **~209** | **204** | **Đầy đủ** |
 
 ---
 

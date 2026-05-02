@@ -14,15 +14,17 @@ metadata:
 
 ## Phạm vi
 
-**Tầng 2: Bộ Máy** — Skill có số lượng tài liệu lớn nhất vì con người là tài sản quan trọng nhất. Tạo 22 tài liệu chia 6 nhóm:
+**Tầng 2: Bộ Máy** — Skill có số lượng tài liệu lớn nhất vì con người là tài sản quan trọng nhất. Tạo 27 tài liệu chia 7 nhóm:
 
 | Nhóm | Tên | Mô tả |
 |------|-----|-------|
-| 03.1 | Cơ cấu tổ chức | Org chart, JD template, JD vị trí chủ chốt, Headcount Plan |
-| 03.2 | Chính sách nhân sự | Nội quy LĐ, lương thưởng, phúc lợi, nghỉ phép, remote, bảo mật |
+| 03.1 | Cơ cấu tổ chức | Org chart, JD template, JD vị trí chủ chốt, Headcount Plan, Khung năng lực |
+| 03.2 | Chính sách nhân sự | Nội quy LĐ, lương thưởng, phúc lợi, nghỉ phép, remote, bảo mật, kỷ luật, DEI |
 | 03.3 | Tuyển dụng | SOP tuyển dụng, câu hỏi PV, scorecard, offer letter |
 | 03.4 | Onboarding & Offboarding | SOP nhận NV, sổ tay NV, checklist 30-60-90, SOP nghỉ việc, bàn giao |
 | 03.5 | Đánh giá hiệu suất | Chính sách đánh giá, KPI template, 360 feedback |
+| 03.6 | Phát triển & Kế nhiệm | Khung năng lực, Kế hoạch kế nhiệm |
+| 03.7 | Văn hóa & Gắn kết | Khảo sát gắn kết nhân viên (eNPS, Engagement Survey) |
 
 ## Prompt files trong references/
 
@@ -50,6 +52,11 @@ metadata:
 | `chinh-sach-danh-gia-hieu-suat.md` | POL | Chính sách đánh giá hiệu suất |
 | `kpi-ca-nhan-template.md` | FRM | KPI cá nhân template |
 | `form-danh-gia-360.md` | FRM | Form đánh giá 360 độ |
+| `chinh-sach-da-dang-hoa.md` | POL | Chính sách đa dạng & hòa nhập (DEI) |
+| `khung-nang-luc.md` | FRM | Khung năng lực (Competency Framework) |
+| `ke-hoach-ke-nhiem.md` | FRM | Kế hoạch kế nhiệm (Succession Plan) |
+| `chinh-sach-ky-luat.md` | POL | Chính sách kỷ luật lao động |
+| `khao-sat-gan-ket-nhan-vien.md` | FRM | Khảo sát gắn kết nhân viên (Employee Engagement Survey) |
 
 ## Quy trình sử dụng
 
